@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Abdul Raziq",
+    "profile_photo": {
+      "url": "/speakers/abdul-raziq.png"
+    },
+    "description": "Chief Photojournalist, IPP",
+    "priority": 1
+  },
+  {
+    "name": "Shriyansh Mohanty",
+    "profile_photo": {
+      "url": "/speakers/shriyansh.png"
+    },
+    "description": "Head of IP",
+    "priority": 2
+  },
+  {
+    "name": "Subhashri Manigandan",
+    "profile_photo": {
+      "url": "/speakers/subhashri.png"
+    },
+    "description": "Editor-in-Chief",
+    "priority": 3
+  },
+  {
+    "name": "Aaron Mirza",
+    "profile_photo": {
+      "url": "/speakers/aaron-mirza.png"
+    },
+    "description": "Moderator, AIPPM",
+    "priority": 4
+  },
+  {
+    "name": "Sai Eshwar",
+    "profile_photo": {
+      "url": "/speakers/sai-eshwar.png"
+    },
+    "description": "Deputy Moderator, AIPPM",
+    "priority": 5
+  },
+  {
+    "name": "Chitranjan Mishra",
+    "profile_photo": {
+      "url": "/speakers/chitranjan.png"
+    },
+    "description": "Director, AIPPM",
+    "priority": 6
+  },
+  {
+    "name": "Ravi Vatsan",
+    "profile_photo": {
+      "url": "/speakers/ravi-vatsan.png"
+    },
+    "description": "Chairperson, TNSM",
+    "priority": 7
+  },
+  {
+    "name": "M Chellakumar",
+    "profile_photo": {
+      "url": "/speakers/chellakkumar.png"
+    },
+    "description": "Vice-Chairperson, TNSM",
+    "priority": 8
+  },
+  {
+    "name": "Sujith Kumar",
+    "profile_photo": {
+      "url": "/speakers/sujith.png"
+    },
+    "description": "Director, TNSM",
+    "priority": 9
+  },
+  {
+    "name": "Ayush R",
+    "profile_photo": {
+      "url": "/speakers/ayushr.png"
+    },
+    "description": "Co-President, UNSC",
+    "priority": 10
+  },
+  {
+    "name": "Fazil Razak",
+    "profile_photo": {
+      "url": "/speakers/fazil-razak.png"
+    },
+    "description": "Co-President, UNSC",
+    "priority": 11
+  },
+  {
+    "name": "Jahnavi Dhir",
+    "profile_photo": {
+      "url": "/speakers/jahnavi-dhir.png"
+    },
+    "description": "Director, UNSC",
+    "priority": 12
+  },
+  {
+    "name": "Niresh Swamy",
+    "profile_photo": {
+      "url": "/speakers/niresh-swamy.png"
+    },
+    "description": "Chairperson, UNGA",
+    "priority": 13
+  },
+  {
+    "name": "Aritra Kadak",
+    "profile_photo": {
+      "url": "/speakers/aritra-kadak.png"
+    },
+    "description": "Vice-Chairperson, UNGA",
+    "priority": 14
+  },
+  {
+    "name": "Ansha Tripathi",
+    "profile_photo": {
+      "url": "/speakers/ansha.png"
+    },
+    "description": "Director, UNGA",
+    "priority": 15
+  },
+  {
+    "name": "Satrajit Sahani",
+    "profile_photo": {
+      "url": "/speakers/satrajit.png"
+    },
+    "description": "Chairperson, UNHRC",
+    "priority": 16
+  },
+  {
+    "name": "Siddharth Bandam",
+    "profile_photo": {
+      "url": "/speakers/siddharth-bandam.png"
+    },
+    "description": "Vice-Chairperson, UNHRC",
+    "priority": 17
+  },
+  {
+    "name": "Nitya Tyagi",
+    "profile_photo": {
+      "url": "/speakers/nitya.png"
+    },
+    "description": "Director, UNHRC",
+    "priority": 18
+  },
+  {
+    "name": "Vishwavesu Aprameya",
+    "profile_photo": {
+      "url": "/speakers/aprameya.png"
+    },
+    "description": "Chairperson, ECOSOC",
+    "priority": 19
+  },
+  {
+    "name": "Sanjana Vijay",
+    "profile_photo": {
+      "url": "/speakers/sanjana-vijay.png"
+    },
+    "description": "Vice-Chairperson, ECOSOC",
+    "priority": 20
+  },
+  {
+    "name": "Ruchit Shivani",
+    "profile_photo": {
+      "url": "/speakers/ruchit.png"
+    },
+    "description": "Director, ECOSOC",
+    "priority": 21
+  }
+] 
