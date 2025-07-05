@@ -21,13 +21,9 @@ export const Speaker = React.forwardRef<HTMLDivElement, SpeakerProps>(
     {
       name,
       description,
-      profile_photo,
+      profilePhoto,
       url,
       priority,
-      createdAt,
-      documentId,
-      updatedAt,
-      publishedAt,
       className,
       ...rest
     },
@@ -51,7 +47,7 @@ export const Speaker = React.forwardRef<HTMLDivElement, SpeakerProps>(
       >
         <Image
           className={"object-cover"}
-          src={profile_photo?.url || "/speakers/placeholder.webp"}
+          src={profilePhoto || "/speakers/placeholder.webp"}
           alt={name}
           title={name}
           width={275}
