@@ -21,8 +21,6 @@ export const Speaker = React.forwardRef<HTMLDivElement, SpeakerProps>(
     {
       name,
       description,
-      position,
-      company_name,
       profile_photo,
       url,
       priority,
