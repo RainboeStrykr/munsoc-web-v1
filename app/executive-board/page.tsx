@@ -32,7 +32,6 @@ const SpeakersPage = async () => {
                 <SpeakerComponent
                   key={index}
                   {...speaker}
-                  id={index}
                 />
               ))}
           </div>
