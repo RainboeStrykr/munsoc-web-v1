@@ -16,7 +16,7 @@ type Story = StoryObj<typeof meta>;
 
 export const Default: Story = {
   args: {
-    profile_photo: {
+    profilePhoto: {
       id: 1,
       documentId: "doc1",
       name: "Vitalik_Buterin_Profile",
@@ -93,7 +93,7 @@ export const Default: Story = {
 
 export const WithLink: Story = {
   args: {
-    profile_photo: {
+    profilePhoto: {
       id: 2,
       documentId: "doc2",
       name: "Vitalik_Buterin_Profile",
