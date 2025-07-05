@@ -3,10 +3,10 @@ import { Text } from "@/components/text";
 import { Speaker as SpeakerComponent } from "@/components/speaker";
 // import { useSpeaker } from "@/hooks/useSpeaker";
 import { Link } from "@/components/link";
-import { fetchSpeakers } from "@/components/service/contentStrapi";
+import speakersData from "@/data/speakers.json";
 
-const Speaker = async () => {
-  const speakers = await fetchSpeakers();
+const Speaker = () => {
+  const speakers = speakersData;
 
   const filteredSpeakers = speakers
     .filter((speaker) => {
