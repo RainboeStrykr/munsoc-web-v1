@@ -90,7 +90,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ isOpen, onClose }) => {
             );
           })}
           <Button buttonType={"primary"} asChild>
-            <Link href={"https://tum-blockchain-conference-25.eventbrite.de"}>
+            <Link href={"https://www.instagram.com/srm_munsoc/"}>
               Register
             </Link>
           </Button>
@@ -185,7 +185,7 @@ export const Header = React.forwardRef<HeaderElement, HeaderProps>(
               })}
               <Button asChild>
                 <Link
-                  href={"https://tum-blockchain-conference-25.eventbrite.de"}
+                  href={"https://www.instagram.com/srm_munsoc/"}
                 >
                   Register
                 </Link>

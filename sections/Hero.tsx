@@ -24,7 +24,7 @@ const Hero = () => {
             <div className="flex flex-col items-center gap-1">
               <Button buttonType={"cta"} asChild>
                 <Link
-                  href={"https://tum-blockchain-conference-25.eventbrite.de"}
+                  href={"https://www.instagram.com/srm_munsoc/"}
                 >
                   Register Now!
                 </Link>
