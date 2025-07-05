@@ -28,11 +28,11 @@ const SpeakersPage = async () => {
             className={"grid grid-cols-2 lg:grid-cols-4 gap-2 lg:gap-6 mt-24"}
           >
             {filteredSpeakers &&
-              filteredSpeakers.map((speaker) => (
+              filteredSpeakers.map((speaker, index) => (
                 <SpeakerComponent
-                  key={Number(speaker.id)}
+                  key={index}
                   {...speaker}
-                  id={Number(speaker.id)} // Convert id to string
+                  id={index}
                 />
               ))}
           </div>
