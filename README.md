@@ -1,1 +1,3 @@
-# munsoc-web-v1
+# SRM MUN Society
+
+## website v1
