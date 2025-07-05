@@ -4,7 +4,7 @@ import { Text } from "@/components/text";
 import classNames from "classnames";
 import Image from "next/image";
 import React from "react";
-import { Speaker as SpeakerModel } from "@/components/service/contentStrapi";
+import SpeakerModel from "@/model/speaker";
 import Link from "next/link";
 import {
   GitHubLogoIcon,
