@@ -31,6 +31,7 @@ const SpeakersPage = async () => {
               filteredSpeakers.map((speaker, index) => (
                 <SpeakerComponent
                   key={index}
+                  profilePhoto={speaker.profile_photo?.url}
                   {...speaker}
                 />
               ))}
