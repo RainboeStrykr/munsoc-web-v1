@@ -9,31 +9,24 @@ const Spline = dynamic(() => import("@splinetool/react-spline"), {
 
 const Sparkle = () => {
   const splineWrapperRef = useRef<HTMLDivElement>(null);
-  const [isMobile, setIsMobile] = useState(false);
   const [shouldRenderSpline, setShouldRenderSpline] = useState(false);
 
   useEffect(() => {
     if (typeof window === "undefined") return;
 
-    const isMob =
-      /Mobi|Android/i.test(navigator.userAgent) || window.innerWidth < 768;
-    setIsMobile(isMob);
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        setShouldRenderSpline(entry.isIntersecting);
+      },
+      { threshold: 0.1 },
+    );
 
-    if (!isMob) {
-      const observer = new IntersectionObserver(
-        ([entry]) => {
-          setShouldRenderSpline(entry.isIntersecting);
-        },
-        { threshold: 0.1 },
-      );
+    const ref = splineWrapperRef.current;
+    if (ref) observer.observe(ref);
 
-      const ref = splineWrapperRef.current;
-      if (ref) observer.observe(ref);
-
-      return () => {
-        if (ref) observer.unobserve(ref);
-      };
-    }
+    return () => {
+      if (ref) observer.unobserve(ref);
+    };
   }, []);
 
   return (
@@ -50,7 +43,7 @@ const Sparkle = () => {
           scale: 1.3,
         }}
       >
-        {!isMobile && shouldRenderSpline ? (
+        {shouldRenderSpline ? (
           <Spline
             scene="https://prod.spline.design/X8yMwV2twUVUqdvk/scene.splinecode"
             className="absolute opacity-50 w-screen h-screen"
