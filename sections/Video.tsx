@@ -22,6 +22,7 @@ const Video = () => {
           className="w-full relative justify-center items-center max-w-[325px] sm:max-w-[500px]"
           style={{ aspectRatio: "16 / 9" }}
         >
+          
           <iframe
             src="https://www.youtube-nocookie.com/embed/MgY01n03QLU"
             title="YouTube video player"
@@ -31,6 +32,7 @@ const Video = () => {
             allowFullScreen
           ></iframe>
         </div>
+
       </section>
     </>
   );
