@@ -8,33 +8,28 @@ import "./globals.css";
 
 const montserrat = Montserrat({ subsets: ["latin"] });
 const description =
-  "Germany's leading student-run conference exploring the frontiers of blockchain technology";
-const ogImages = {
-  url: new URL("https://conference.tum-blockchain.com/opengraph-image.png"),
-  width: 1200,
-  height: 630,
-};
+  "SRM MUN 2025 - India's premier Model United Nations conference exploring global diplomacy, international relations, and youth leadership";
+const ogImages = [
+  {
+    url: "/srmmun-24-white.png",
+    width: 1200,
+    height: 630,
+    alt: "SRM MUN 2025",
+  },
+];
 
 export const metadata: Metadata = {
   title: "SRM MUN 2025",
-  metadataBase: new URL("https://conference.tum-blockchain.com"),
+  metadataBase: new URL("https://srmmun2025.com"),
   authors: [
     {
-      name: "Yudhistira Arief Wibowo",
-      url: "https://github.com/itsmeyaw",
-    },
-    {
-      name: "Xiyue Zhang",
-      url: "https://github.com/LUOJIUzxy",
-    },
-    {
-      name: "TUM Blockchain Club",
-      url: "https://tum-blockchain.com",
+      name: "SRM MUNSOC",
+      url: "https://github.com/srm-munsoc",
     },
   ],
-  publisher: "TUM Blockchain Club",
-  category: "technology",
-  keywords: ["conference", "blockchain"],
+  publisher: "SRM MUNSOC",
+  category: "education",
+  keywords: ["MUN", "Model United Nations", "conference", "diplomacy", "international relations"],
   robots: {
     index: true,
     follow: true,
@@ -51,8 +46,8 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "SRM MUN 2025",
     description: description,
-    site: "@tbc_munich",
-    creator: "@tbc_munich",
+    site: "@srm_munsoc",
+    creator: "@srm_munsoc",
     images: ogImages,
   },
 };
@@ -83,11 +78,7 @@ export default function RootLayout({
         <SpeedInsights />
         <Footer />
       </body>
-      <Script
-        defer
-        data-domain="conference.tum-blockchain.com"
-        src="https://plausible.rbg.tum-blockchain.com/js/script.js"
-      ></Script>
+      
     </html>
   );
 }
