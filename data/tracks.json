@@ -1,17 +1,17 @@
 [
   {
-    "title": "IP - Journalism",
-    "img": "/commicons/icon3.png",
-    "description": "Journalists play a crucial role in shaping the narrative, from exposing corruption to championing human rights, providing context and analysis that influence public discourse",
-    "icon": "Feather",
-    "iconColor": "#4ADE80"
+    "title": "United Nations General Assembly",
+    "img": "/commicons/icon1.png",
+    "description": "The United Nations General Assembly (UNGA) is not simply a chamber of speeches, it is the conscience of multilateralism. Here, every nation regardless of power or size, is granted an equal voice, affirming the principle that the legitimacy of international order rests on shared dignity and collective choice.",
+    "icon": "Globe",
+    "iconColor": "#60A5FA"
   },
   {
-    "title": "IP - Photojournalism",
-    "img": "/commicons/icon3.png",
-    "description": "Photographers capture pivotal moments, revealing truths and preserving history. Each photograph tells a story, ensuring significant events are seen, remembered, and understood. ",
-    "icon": "Camera",
-    "iconColor": "#2DD4BF"
+    "title": "United Nations Human Rights Council",
+    "img": "/commicons/icon1.png",
+    "description": "The UNHRC stands at the frontline of justice investigating violations, addressing humanitarian crises, and amplifying silenced voices. It is not merely a forum of states, but a guardian of dignity, transforming urgent pleas into global resolve.",
+    "icon": "Network",
+    "iconColor": "#053cfd"
   },
   {
     "title": "United Nations Security Council",
@@ -28,24 +28,24 @@
     "iconColor": "#fafafa"
   },
   {
-    "title": "United Nations General Assembly",
-    "img": "/commicons/icon1.png",
-    "description": "The United Nations General Assembly (UNGA) is not simply a chamber of speeches, it is the conscience of multilateralism. Here, every nation regardless of power or size, is granted an equal voice, affirming the principle that the legitimacy of international order rests on shared dignity and collective choice.",
-    "icon": "Globe",
-    "iconColor": "#60A5FA"
-  },
-  {
-    "title": "United Nations Human Rights Council",
-    "img": "/commicons/icon1.png",
-    "description": "The UNHRC stands at the frontline of justice investigating violations, addressing humanitarian crises, and amplifying silenced voices. It is not merely a forum of states, but a guardian of dignity, transforming urgent pleas into global resolve.",
-    "icon": "Network",
-    "iconColor": "#053cfd"
-  },
-  {
     "title": "Lok Sabha",
     "img": "/commicons/loksabha.png",
     "description": "The Lok Sabha or “House of the People”, is the truest reflection of India’s democratic soul. It speaks for every citizen, from the largest metropolis to the smallest village, from the heartlands of agriculture to the corridors of innovation. Each representative carries the diverse voices of their constituencies, ensuring that Parliament reflects not only the geography of India but the depth of its people’s aspirations.",
     "icon": "Siren",
     "iconColor": "#FACC15"
+  },
+  {
+    "title": "IP - Photojournalism",
+    "img": "/commicons/icon3.png",
+    "description": "Photographers capture pivotal moments, revealing truths and preserving history. Each photograph tells a story, ensuring significant events are seen, remembered, and understood. ",
+    "icon": "Camera",
+    "iconColor": "#2DD4BF"
+  },
+  {
+    "title": "IP - Journalism",
+    "img": "/commicons/icon3.png",
+    "description": "Journalists play a crucial role in shaping the narrative, from exposing corruption to championing human rights, providing context and analysis that influence public discourse",
+    "icon": "Feather",
+    "iconColor": "#4ADE80"
   }
 ] 
