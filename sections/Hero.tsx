@@ -31,7 +31,7 @@ const Hero = () => {
               </Button>
               <Button
                 buttonType={"secondary"}
-                className="!bg-gradient-to-br from-tbc-light-blue via-tbc-pink to-tbc-violet text-black font-bold hover:opacity-90"
+                className="!bg-purple-300 !text-black font-bold hover:opacity-90"
                 asChild
               >
                 <Link
