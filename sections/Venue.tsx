@@ -31,7 +31,7 @@ const Venue = () => {
   return (
     <section className="w-full flex flex-col items-center" id="tracks">
       <Text textType={"sub_hero"} className="text-gradient text-center">
-        Venue
+       Gallery
       </Text>
       <div className="mt-20">
         <div className="overflow-x-hidden w-[280px] sm:w-[600px] xl:w-[800px]">
@@ -66,21 +66,7 @@ const Venue = () => {
             ref={timerRef}
           ></div>
         </div>
-        <a
-          href="https://maps.app.goo.gl/Q6CzSuR8NcpzmMvo7"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="block"
-        >
-          <div className="relative -translate-y-[50%] bg-black mx-auto border-gradient-tbc border-2 text-center max-w-[250px] sm:max-w-[400px] py-4 sm:py-8">
-            <Text as="p" textType={"sub_title"}>
-            SRM University
-            </Text>
-            <Text as="p" textType={"paragraph"}>
-            Kattankulathur, Tamil Nadu 603203
-            </Text>
-          </div>
-        </a>
+        
       </div>
     </section>
   );

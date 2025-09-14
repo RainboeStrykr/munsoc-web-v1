@@ -90,7 +90,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ isOpen, onClose }) => {
             );
           })}
           <Button buttonType={"primary"} asChild>
-            <Link href={"https://www.instagram.com/srm_munsoc/"}>
+            <Link href={"https://forms.gle/qBZ86foXHvrVooA37"}>
               Register
             </Link>
           </Button>
@@ -185,7 +185,7 @@ export const Header = React.forwardRef<HeaderElement, HeaderProps>(
               })}
               <Button asChild>
                 <Link
-                  href={"https://www.instagram.com/srm_munsoc/"}
+                  href={"https://forms.gle/qBZ86foXHvrVooA37"}
                 >
                   Register
                 </Link>
