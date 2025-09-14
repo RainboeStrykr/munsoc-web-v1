@@ -28,13 +28,11 @@ export default function Home() {
             <div className={"flex flex-col max-w-7xl z-10"}>
               <Hero />
               <div className={"flex flex-col pb-24 gap-32"}>
-                <Video />
                 <Statistic />
                 <Manifesto />
                 <Tracks />
                 <Venue />
                 <Tickets />
-                <Sponsors />
               </div>
             </div>
           </Container>
