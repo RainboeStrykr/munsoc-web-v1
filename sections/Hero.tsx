@@ -29,6 +29,7 @@ const Hero = () => {
                   Register Now!
                 </Link>
               </Button>
+              
               <Button
                 buttonType={"secondary"}
                 className="!bg-purple-300 !text-black font-bold hover:opacity-90"
@@ -40,6 +41,7 @@ const Hero = () => {
                   Country Matrix
                 </Link>
               </Button>
+              
             </div>
             {/* <div className={"flex flex-col items-center gap-1"}>
               <Text as={"p"} textType={"sub_title"} className="text-center">
