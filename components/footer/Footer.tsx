@@ -1,6 +1,6 @@
 import { Link } from "@/components/link";
 import { Text } from "@/components/text";
-import confLogo from "@/media/srmmun-24-white.png";
+import confLogo from "@/media/srmmun25.png";
 import dcLogo from "@/public/logos/discord-logo.png";
 import liLogo from "@/public/logos/linkedin-logo.png";
 import tbcLogo from "@/media/MUNSOC-logo-white.png";
@@ -67,7 +67,7 @@ export const Footer = React.forwardRef<FooterElement, FooterProps>(
                 </div>
                 <div className="flex space-x-4 mt-2">
                   <Link
-                    href="https://www.linkedin.com/in/abhiraj-bhowmick/"
+                    href="https://www.linkedin.com/company/srm-mun-society/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >

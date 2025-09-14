@@ -2,7 +2,7 @@
 
 import { Text } from "@/components/text";
 import Image from "next/image";
-import confLogo from "@/media/srmmun-24-white.png";
+import confLogo from "@/media/srmmun25.png";
 import { Button } from "@/components/button";
 import Link from "next/link";
 
