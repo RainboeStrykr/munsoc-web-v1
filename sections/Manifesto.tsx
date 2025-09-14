@@ -6,7 +6,7 @@ const Manifesto = () => {
       <div className={"w-full flex flex-col gap-12 lg:gap-20 px-2 lg:px-0"}>
         <div className={"w-full flex justify-center"}>
           <Text textType={"sub_hero"} className="text-gradient">
-            Our Legacy
+            OUR LEGACY
           </Text>
         </div>
         <div className="w-full flex justify-center">
