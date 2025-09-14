@@ -193,8 +193,8 @@ export const Header = React.forwardRef<HeaderElement, HeaderProps>(
             </nav>
             <div className="md:hidden py-2 px-4">
               <HamburgerMenuIcon
-                height={"25"}
-                width={"25"}
+                height={"36"}
+                width={"36"}
                 onClick={() => setIsSidebarOpen(true)}
               />
             </div>
