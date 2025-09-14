@@ -16,35 +16,35 @@
   {
     "title": "United Nations Security Council",
     "img": "/commicons/icon2.png",
-    "description": "AGENDA: Situation in Afghanistan, December 1979",
+    "description": "In a world unsettled by conflict and uncertainty, the United Nations Security Council (UNSC) stands as the guardian of peace and stability. It is where nations confront crises head on, forging decisions that can prevent war, protect human rights, and uphold international law.",
     "icon": "Swords",
     "iconColor": "#d3f60a"
   },
   {
     "title": "Economic and Social Council",
     "img": "/commicons/icon1.png",
-    "description": "AGENDA: Socio-economic deprivation and persecution of refugees",
+    "description": "The United Nations Economic and Social Council (ECOSOC) is where vision meets responsibility. For decades, it has stood at the crossroads of development and diplomacy, uniting nations to confront the defining challenges of our shared future poverty, inequality, sustainability, and the pursuit of inclusive growth.",
     "icon": "Landmark",
     "iconColor": "#fafafa"
   },
   {
     "title": "United Nations General Assembly",
     "img": "/commicons/icon1.png",
-    "description": "AGENDA: Responsibility to Protect (2005 World Summit)",
+    "description": "The United Nations General Assembly (UNGA) is not simply a chamber of speeches, it is the conscience of multilateralism. Here, every nation regardless of power or size, is granted an equal voice, affirming the principle that the legitimacy of international order rests on shared dignity and collective choice.",
     "icon": "Globe",
     "iconColor": "#60A5FA"
   },
   {
     "title": "United Nations Human Rights Council",
     "img": "/commicons/icon1.png",
-    "description": "AGENDA: Implementing the Universal Periodic Review recommendations with emphasis on cooperation and capacity building",
+    "description": "The UNHRC stands at the frontline of justice investigating violations, addressing humanitarian crises, and amplifying silenced voices. It is not merely a forum of states, but a guardian of dignity, transforming urgent pleas into global resolve.",
     "icon": "Network",
     "iconColor": "#053cfd"
   },
   {
     "title": "Lok Sabha",
     "img": "/commicons/loksabha.png",
-    "description": "AGENDA: Deliberating on the current reservation policy of India and the need to reassess it in light of the current socio-economic realities.",
+    "description": "The Lok Sabha or “House of the People”, is the truest reflection of India’s democratic soul. It speaks for every citizen, from the largest metropolis to the smallest village, from the heartlands of agriculture to the corridors of innovation. Each representative carries the diverse voices of their constituencies, ensuring that Parliament reflects not only the geography of India but the depth of its people’s aspirations.",
     "icon": "Siren",
     "iconColor": "#FACC15"
   }

@@ -31,12 +31,14 @@ const Statistic = () => {
             </Text>
             <Text textType={"sub_title"}>Committees</Text>
           </div>
+          {/*
           <div className={"flex flex-col gap-2 items-center lg:items-center"}>
             <Text className={""} textType={"sub_hero"}>
               3.5L+
             </Text>
             <Text textType={"sub_title"}>Prize Pool</Text>
           </div>
+          */}
           <div className={"flex flex-col gap-2 items-center lg:items-center"}>
             <Text className={""} textType={"sub_hero"}>
               3

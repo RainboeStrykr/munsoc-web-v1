@@ -114,6 +114,7 @@ export const Ticket = React.forwardRef<TicketElement, TicketProps>(
               <br />
             </Text>
           </div>
+          {/*
           <div className="flex items-center">
             <div>
               <div className="w-[14px] h-[14x]">
@@ -131,6 +132,7 @@ export const Ticket = React.forwardRef<TicketElement, TicketProps>(
               <br />
             </Text>
           </div>
+          */}
           <div className="flex items-center">
             <div className="w-[14px] h-[14x]">
               <Image
