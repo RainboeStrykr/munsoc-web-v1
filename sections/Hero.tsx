@@ -21,12 +21,23 @@ const Hero = () => {
                 October 31<sup>st</sup> - Nov 1<sup>st</sup> - Nov 2<sup>nd</sup> 2025
               </Text>
             </div>
-            <div className="flex flex-col items-center gap-1">
+            <div className="flex flex-col sm:flex-row items-center gap-3 sm:gap-4">
               <Button buttonType={"cta"} asChild>
                 <Link
-                  href={"https://www.instagram.com/srm_munsoc/"}
+                  href={"https://forms.gle/qBZ86foXHvrVooA37"}
                 >
                   Register Now!
+                </Link>
+              </Button>
+              <Button
+                buttonType={"secondary"}
+                className="!bg-gradient-to-br from-tbc-light-blue via-tbc-pink to-tbc-violet text-black font-bold hover:opacity-90"
+                asChild
+              >
+                <Link
+                  href={"https://docs.google.com/spreadsheets/d/1C-cVkQC2JXNBHE0KUEbJCWTpAnZSHtLIaquVn_UJfu8/edit?usp=sharing"}
+                >
+                  Country Matrix
                 </Link>
               </Button>
             </div>

@@ -19,7 +19,7 @@ const Tickets = () => {
       </div>
       <div className="w-full flex justify-center mt-20">
         <Button buttonType={"cta"} asChild>
-          <Link href={"http://instagram.com/srm_munsoc"}>
+          <Link href={"https://forms.gle/qBZ86foXHvrVooA37"}>
             Register Now!
           </Link>
         </Button>

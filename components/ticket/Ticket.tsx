@@ -151,38 +151,8 @@ export const Ticket = React.forwardRef<TicketElement, TicketProps>(
               (ticketType == "vip" ? "block" : "hidden") + " space-y-2"
             }
           >
-            <div className="flex items-center">
-              <div>
-                <div className="w-[14px] h-[14x]">
-                  <Image
-                    className={"object-cover"}
-                    src={"/assets/check_gold.png"}
-                    alt={"check"}
-                    width={100}
-                    height={100}
-                  />
-                </div>
-              </div>
-              <Text textType={"paragraph"} className="ml-2 text-[#DE9E31]">
-                Accomodation Excluded
-                <br />
-              </Text>
-            </div>
-            <div className="flex items-center">
-              <div className="w-[14px] h-[14x]">
-                <Image
-                  className={"object-cover"}
-                  src={"/assets/check_gold.png"}
-                  alt={"check"}
-                  width={100}
-                  height={100}
-                />
-              </div>
-              <Text textType={"paragraph"} className="ml-2 text-[#DE9E31]">
-                Transportation Excluded
-                <br />
-              </Text>
-            </div>
+            
+            
           </div>
         </div>
       </div>
