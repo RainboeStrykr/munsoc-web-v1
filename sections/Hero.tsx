@@ -12,7 +12,7 @@ const Hero = () => {
       <section className="relative mt-[50vh] translate-y-[-50%] w-full flex justify-center items-center overflow-visible">
         <div>
           <div className="flex flex-col w-full justify-between items-center gap-8">
-            <div className="relative max-w-[80vw] xl:max-w-[50vw] min-h-[150px] w-[400px] h-[175px] xs:mt-10 sm:w-[500px] sm:h-[200px] lg:w-[700px] lg:h-[350px]">
+            <div className="relative max-w-[80vw] xl:max-w-[50vw] min-h-[120px] w-[320px] h-[140px] xs:mt-10 sm:w-[400px] sm:h-[160px] lg:w-[560px] lg:h-[280px]">
               <Image src={confLogo} alt="TUM Blockchain Conference 24" fill />
             </div>
 
