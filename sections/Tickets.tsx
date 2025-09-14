@@ -14,7 +14,7 @@ const Tickets = () => {
       <div className="w-full flex justify-center">
         <div className="sm:flex mt-20 justify-center sm:space-x-10 space-y-10 sm:space-y-0 w-7/8 sm:w-full">
           
-          <Ticket price={2100} ticketType={"vip"} title="Delegate Fees" />
+          <Ticket price={2200} ticketType={"vip"} title="Delegate Fees" />
         </div>
       </div>
       <div className="w-full flex justify-center mt-20">

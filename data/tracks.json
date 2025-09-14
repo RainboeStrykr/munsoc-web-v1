@@ -14,20 +14,6 @@
     "iconColor": "#2DD4BF"
   },
   {
-    "title": "All India Political Parties Meet",
-    "img": "/tracks/siren.svg",
-    "description": "AGENDA: Deliberating on the current reservation policy of India and the need to reassess it in light of the current socio-economic realities.",
-    "icon": "Siren",
-    "iconColor": "#FACC15"
-  },
-  {
-    "title": "Tamil Nadu Stakeholders' Meeting",
-    "img": "/tracks/syringe.svg",
-    "description": "AGENDA: Reviewing public health concerns in Tamil Nadu with reference to increasing alcoholism and substance abuse",
-    "icon": "Syringe",
-    "iconColor": "#F87171"
-  },
-  {
     "title": "United Nations Security Council",
     "img": "/tracks/swords.svg",
     "description": "AGENDA: Situation in Afghanistan, December 1979",
@@ -54,5 +40,12 @@
     "description": "AGENDA: Implementing the Universal Periodic Review recommendations with emphasis on cooperation and capacity building",
     "icon": "Network",
     "iconColor": "#053cfd"
+  },
+  {
+    "title": "Lok Sabha",
+    "img": "/tracks/siren.svg",
+    "description": "AGENDA: Deliberating on the current reservation policy of India and the need to reassess it in light of the current socio-economic realities.",
+    "icon": "Siren",
+    "iconColor": "#FACC15"
   }
 ] 

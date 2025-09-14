@@ -22,7 +22,7 @@ const Statistic = () => {
             <Text className={""} textType={"sub_hero"}>
               10+
             </Text>
-            <Text textType={"sub_title"}>Chairpersons</Text>
+            <Text textType={"sub_title"}>Colleges</Text>
           </div>
           
           <div className={"flex flex-col gap-2 items-center lg:items-center"}>
@@ -33,15 +33,15 @@ const Statistic = () => {
           </div>
           <div className={"flex flex-col gap-2 items-center lg:items-center"}>
             <Text className={""} textType={"sub_hero"}>
-              20
+              3.5L+
             </Text>
-            <Text textType={"sub_title"}>Panels</Text>
+            <Text textType={"sub_title"}>Prize Pool</Text>
           </div>
           <div className={"flex flex-col gap-2 items-center lg:items-center"}>
             <Text className={""} textType={"sub_hero"}>
-              7
+              3
             </Text>
-            <Text textType={"sub_title"}>Workshops</Text>
+            <Text textType={"sub_title"}>days of debate</Text>
           </div>
         </div>
       </div>
