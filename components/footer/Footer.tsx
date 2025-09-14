@@ -113,19 +113,8 @@ export const Footer = React.forwardRef<FooterElement, FooterProps>(
                     </Link>
                   </Text>
                 </div>
-                <div className="flex flex-col space-y-2 items-left">
-                  <Text asChild>
-                    <Link href={"/privacy-policy.pdf"}>Privacy Policy</Link>
-                  </Text>
-                </div>
-                <div className="flex flex-col space-y-2 items-left">
-                  <Text asChild>
-                    <Link href={"https://docs.google.com/spreadsheets/d/1C-cVkQC2JXNBHE0KUEbJCWTpAnZSHtLIaquVn_UJfu8/edit?usp=sharing"}>
-                      Country Matrix
-                    </Link>
-                  </Text>
-                  <div className="flex space-x-4"></div>
-                </div>
+                
+                
               </div>
             </div>
           </div>
