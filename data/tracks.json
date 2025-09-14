@@ -1,49 +1,49 @@
 [
   {
     "title": "IP - Journalism",
-    "img": "/tracks/feather.svg",
+    "img": "/commicons/icon3.png",
     "description": "Journalists play a crucial role in shaping the narrative, from exposing corruption to championing human rights, providing context and analysis that influence public discourse",
     "icon": "Feather",
     "iconColor": "#4ADE80"
   },
   {
     "title": "IP - Photography",
-    "img": "/tracks/camera.svg",
+    "img": "/commicons/icon3.png",
     "description": "Photographers capture pivotal moments, revealing truths and preserving history. Each photograph tells a story, ensuring significant events are seen, remembered, and understood. ",
     "icon": "Camera",
     "iconColor": "#2DD4BF"
   },
   {
     "title": "United Nations Security Council",
-    "img": "/tracks/swords.svg",
+    "img": "/commicons/icon2.png",
     "description": "AGENDA: Situation in Afghanistan, December 1979",
     "icon": "Swords",
     "iconColor": "#d3f60a"
   },
   {
     "title": "Economic and Social Council",
-    "img": "/tracks/landmark.svg",
+    "img": "/commicons/icon1.png",
     "description": "AGENDA: Socio-economic deprivation and persecution of refugees",
     "icon": "Landmark",
     "iconColor": "#fafafa"
   },
   {
     "title": "United Nations General Assembly",
-    "img": "/tracks/earth.svg",
+    "img": "/commicons/icon1.png",
     "description": "AGENDA: Responsibility to Protect (2005 World Summit)",
     "icon": "Globe",
     "iconColor": "#60A5FA"
   },
   {
     "title": "United Nations Human Rights Council",
-    "img": "/tracks/ecosystem.svg",
+    "img": "/commicons/icon1.png",
     "description": "AGENDA: Implementing the Universal Periodic Review recommendations with emphasis on cooperation and capacity building",
     "icon": "Network",
     "iconColor": "#053cfd"
   },
   {
     "title": "Lok Sabha",
-    "img": "/tracks/siren.svg",
+    "img": "/commicons/loksabha.png",
     "description": "AGENDA: Deliberating on the current reservation policy of India and the need to reassess it in light of the current socio-economic realities.",
     "icon": "Siren",
     "iconColor": "#FACC15"

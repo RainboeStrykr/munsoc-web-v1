@@ -1,30 +1,8 @@
 "use client";
 
-import Image from "next/image";
 import { Text } from "@/components/text";
 import { Track } from "@/components/track";
-import {
-  Syringe,
-  Globe,
-  Swords,
-  Landmark,
-  Network,
-  Feather,
-  Camera,
-  Siren,
-} from "lucide-react";
 import tracks from "@/data/tracks.json";
-
-const iconMap = {
-  Syringe,
-  Globe,
-  Swords,
-  Landmark,
-  Network,
-  Feather,
-  Camera,
-  Siren,
-};
 
 const Tracks = () => {
   return (
@@ -36,8 +14,8 @@ const Tracks = () => {
         {tracks.map((item, idx) => (
           <Track
             key={idx}
-            icon={iconMap[item.icon as keyof typeof iconMap]}
-            iconColor={item.iconColor}
+            imageSrc={item.img}
+            imageAlt={item.title}
             title={item.title}
             desc={item.description}
             dimension={70}
