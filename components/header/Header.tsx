@@ -24,7 +24,7 @@ type HeaderLink = {
 const links: HeaderLink[] = [
   // { label: "Home", link: "/", showsAtHome: false },
   { label: "Our Legacy", link: "#manifesto", showsAtHome: true },
-  { label: "Executive Board", link: "/executive-board", showsAtHome: true },
+  // { label: "Executive Board", link: "/executive-board", showsAtHome: true },
   { label: "Committees", link: "/#tracks", showsAtHome: true },
   {
     label: "Country Matrix",
