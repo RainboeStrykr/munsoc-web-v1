@@ -30,18 +30,6 @@ const Hero = () => {
                 </Link>
               </Button>
               
-              <Button
-                buttonType={"secondary"}
-                className="!bg-purple-300 !text-black font-bold hover:opacity-90"
-                asChild
-              >
-                <Link
-                  href={"https://docs.google.com/spreadsheets/d/1C-cVkQC2JXNBHE0KUEbJCWTpAnZSHtLIaquVn_UJfu8/edit?usp=sharing"}
-                >
-                  Country Matrix
-                </Link>
-              </Button>
-              
             </div>
             {/* <div className={"flex flex-col items-center gap-1"}>
               <Text as={"p"} textType={"sub_title"} className="text-center">
