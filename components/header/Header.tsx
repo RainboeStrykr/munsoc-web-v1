@@ -26,7 +26,7 @@ const links: HeaderLink[] = [
   { label: "Our Legacy", link: "#manifesto", showsAtHome: true },
   // { label: "Executive Board", link: "/executive-board", showsAtHome: true },
   { label: "Committees", link: "/#tracks", showsAtHome: true },
-  {
+  // {
     label: "Country Matrix",
     link: "https://docs.google.com/spreadsheets/d/1C-cVkQC2JXNBHE0KUEbJCWTpAnZSHtLIaquVn_UJfu8/edit?usp=sharing",
     showsAtHome: true,
