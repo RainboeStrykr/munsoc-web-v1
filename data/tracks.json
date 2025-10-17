@@ -2,37 +2,30 @@
   {
     "title": "United Nations General Assembly",
     "img": "/commicons/icon1.png",
-    "description": "The United Nations General Assembly (UNGA) is not simply a chamber of speeches, it is the conscience of multilateralism. Here, every nation regardless of power or size, is granted an equal voice, affirming the principle that the legitimacy of international order rests on shared dignity and collective choice.",
+    "description": "AGENDA: REINCARNATION OF THE LIVING BUDDHAS",
     "icon": "Globe",
     "iconColor": "#60A5FA"
   },
   {
     "title": "United Nations Human Rights Council",
     "img": "/commicons/icon1.png",
-    "description": "The UNHRC stands at the frontline of justice investigating violations, addressing humanitarian crises, and amplifying silenced voices. It is not merely a forum of states, but a guardian of dignity, transforming urgent pleas into global resolve.",
+    "description": "AGENDA: A) SITUATION IN BELARUS 5) HUMAN RIGHTS COUNCIL ADVISORY COMMITTEE",
     "icon": "Network",
     "iconColor": "#053cfd"
   },
   {
     "title": "United Nations Security Council",
     "img": "/commicons/icon2.png",
-    "description": "In a world unsettled by conflict and uncertainty, the United Nations Security Council (UNSC) stands as the guardian of peace and stability. It is where nations confront crises head on, forging decisions that can prevent war, protect human rights, and uphold international law.",
+    "description": "AGENDA: EMERGENCY MEETING-COMPLAINT BY THE UNITED STATES (TONKIN GULF INCIDENT). FREEZE DATE: AUGUST 11TH, 1964.",
     "icon": "Swords",
     "iconColor": "#d3f60a"
   },
   {
     "title": "Economic and Social Council",
     "img": "/commicons/icon1.png",
-    "description": "The United Nations Economic and Social Council (ECOSOC) is where vision meets responsibility. For decades, it has stood at the crossroads of development and diplomacy, uniting nations to confront the defining challenges of our shared future poverty, inequality, sustainability, and the pursuit of inclusive growth.",
+    "description": "AGENDA: ECONOMIC AND SOCIAL REPERCUSSIONS OF THE ISRAELI OCCUPATION ON THE LIVING CONDITIONS OF THE PALESTINIAN PEOPLE IN THE OCCUPIED PALESTINIAN TERRITORY, INCLUDING EAST JERUSALEM, AND THE ARAB POPULATION IN THE OCCUPIED SYRIAN GOLAN",
     "icon": "Landmark",
     "iconColor": "#fafafa"
-  },
-  {
-    "title": "Lok Sabha",
-    "img": "/commicons/loksabha.png",
-    "description": "The Lok Sabha or “House of the People”, is the truest reflection of India’s democratic soul. It speaks for every citizen, from the largest metropolis to the smallest village, from the heartlands of agriculture to the corridors of innovation.",
-    "icon": "Siren",
-    "iconColor": "#FACC15"
   },
   {
     "title": "IP - Photojournalism",
@@ -47,5 +40,12 @@
     "description": "Journalists play a crucial role in shaping the narrative, from exposing corruption to championing human rights, providing context and analysis that influence public discourse",
     "icon": "Feather",
     "iconColor": "#4ADE80"
+  },
+  {
+    "title": "Lok Sabha",
+    "img": "/commicons/loksabha.png",
+    "description": "AGENDA: Freeze Date - 25th October, 1976 of the 5th LOK SABHA",
+    "icon": "Siren",
+    "iconColor": "#FACC15"
   }
 ] 
