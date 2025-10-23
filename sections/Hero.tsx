@@ -18,7 +18,7 @@ const Hero = () => {
 
             <div className={"flex flex-col items-center gap-1"}>
               <Text as={"p"} textType={"sub_title"} className="text-center">
-                Oct 31<sup></sup> | Nov 1<sup></sup> | Nov 2<sup></sup> 
+                Oct 31<sup></sup> | Nov 1<sup></sup> | Nov 2<sup></sup>
               </Text>
             </div>
             <div className="flex flex-col sm:flex-row items-center gap-3 sm:gap-4">
@@ -29,7 +29,13 @@ const Hero = () => {
                   Register Now!
                 </Link>
               </Button>
-              
+              <Button buttonType={"filled"} asChild>
+                <Link
+                  href={"https://drive.google.com/drive/folders/1-mGO7xXH1hWvMkAIAG7bt-M8QcfPSzw0?usp=drive_link"}
+                >
+                  Background Guides Out!
+                </Link>
+              </Button>
             </div>
             {/* <div className={"flex flex-col items-center gap-1"}>
               <Text as={"p"} textType={"sub_title"} className="text-center">

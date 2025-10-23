@@ -15,6 +15,7 @@ const buttonVariants = cva(
         secondary: "hover:bg-bg-hover",
         ticket:
           "font-bold border-gradient-tbc border-2 hover:bg-gradient-to-br hover:from-tbc-yellow/30 hover:via-tbc-pink/30 hover:to-tbc-blue/30",
+        filled: "font-bold bg-gradient-to-br from-tbc-light-blue via-tbc-violet to-tbc-pink text-white hover:opacity-90",
       },
     },
     defaultVariants: {
