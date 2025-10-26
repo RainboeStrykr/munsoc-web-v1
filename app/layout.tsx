@@ -5,6 +5,7 @@ import type { Metadata } from "next";
 import { Montserrat } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
+import { Analytics } from "@vercel/analytics/next"
 
 const montserrat = Montserrat({ subsets: ["latin"] });
 const description =
@@ -77,6 +78,8 @@ export default function RootLayout({
         {children}
         <SpeedInsights />
         <Footer />
+        <Analytics />
+
       </body>
       
     </html>
